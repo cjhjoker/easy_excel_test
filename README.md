@@ -1,2 +1,2 @@
-# easy_excel_test
-easy_excel_test自动化测试
+# excel_test
+python+requests+excel+unittest+ddt接口自动化数据驱动并生成html报告
